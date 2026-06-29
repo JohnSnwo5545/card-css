@@ -1,0 +1,20 @@
+.card{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+   
+    
+}
+.child{
+    display: flex;
+    flex-direction: column;
+     border: 1px black solid;
+     width: 570px;
+     height:192.68;
+     background: linear-gradient(#130428,#251043,#38126D,#261045,#190634);
+     color:white;
+    text-align: center;
+    
+}
